@@ -11,7 +11,7 @@ public class HiFour {
 		Scanner in = new Scanner(System.in);
 		System.out.print("Enter value for arg 0: ");
 		String s0 = in.nextLine();
-		System.out.print("Enter value for arg 1: ");
+		System.out.print("Enter a value for arg 1: ");
 		String s1 = in.nextLine();
 		System.out.print("Enter value for arg 2: ");
 		String s2 = in.nextLine();
